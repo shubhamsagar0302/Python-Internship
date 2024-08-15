@@ -1,2 +1,5 @@
-# Python-Internship
-InfoByte Python Internship
+![11](https://github.com/user-attachments/assets/0e07efce-0b18-432a-ab4a-d36e4da45260)
+![22](https://github.com/user-attachments/assets/7deb1ad9-c039-4dbe-85dc-d546a6f99459)
+![33](https://github.com/user-attachments/assets/d90b3948-2eb0-479d-88c7-13918e19cfd1)
+![44](https://github.com/user-attachments/assets/10fae187-755b-476d-b4ac-191325df0c61)
+![55](https://github.com/user-attachments/assets/27b0054d-7b32-44d2-b345-77dc5e00a0e9)
